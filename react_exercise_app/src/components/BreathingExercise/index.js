@@ -37,6 +37,7 @@ export default function BreathingExercise({ setHeader }) {
 
     return (
         <div>
+            <h2>Hold Your Breath!</h2>
             <h3>Countdown: {String(ms <= timer ? Math.floor((timer - ms) / 1000) % 60 : 0).padStart(2, '0')}</h3>
             <div style={{ display: 'flex', width: '80%', justifyContent: 'space-evenly', marginLeft: 'auto', marginRight: 'auto' }}>
                 <button onClick={() => {
