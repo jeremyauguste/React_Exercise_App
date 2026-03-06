@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-exercise-app/static/css/main.88882d34.css",
+    "main.js": "/react-exercise-app/static/js/main.1c17e30f.js",
+    "static/js/453.f9c98810.chunk.js": "/react-exercise-app/static/js/453.f9c98810.chunk.js",
+    "static/media/running.jpg": "/react-exercise-app/static/media/running.277adf6e8a96fd747837.jpg",
+    "static/media/squats.jpg": "/react-exercise-app/static/media/squats.492eb9135422c51057c5.jpg",
+    "static/media/pushUps.jpg": "/react-exercise-app/static/media/pushUps.edd0bd1f01dfc401f7c2.jpg",
+    "static/media/jumpingJacks.jpg": "/react-exercise-app/static/media/jumpingJacks.31d84650fef22b996c50.jpg",
+    "static/media/breathing.jpg": "/react-exercise-app/static/media/breathing.bf3514872aebda5e6081.jpg",
+    "static/media/planks.webp": "/react-exercise-app/static/media/planks.54b7b60c02f0a8779c17.webp",
+    "index.html": "/react-exercise-app/index.html",
+    "main.88882d34.css.map": "/react-exercise-app/static/css/main.88882d34.css.map",
+    "main.1c17e30f.js.map": "/react-exercise-app/static/js/main.1c17e30f.js.map",
+    "453.f9c98810.chunk.js.map": "/react-exercise-app/static/js/453.f9c98810.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88882d34.css",
+    "static/js/main.1c17e30f.js"
+  ]
+}
